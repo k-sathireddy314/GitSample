@@ -193,8 +193,7 @@
 				TargetAttributes = {
 					E68F3BD31ED2E265008DFB0D = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 4E74VFZH3J;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 					E68F3BE71ED2E265008DFB0D = {
 						CreatedOnToolsVersion = 8.2.1;
@@ -413,7 +412,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 4E74VFZH3J;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = GitSample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.enterpi.GitSample;
@@ -426,7 +425,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 4E74VFZH3J;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = GitSample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.enterpi.GitSample;
